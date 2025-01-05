@@ -5,7 +5,7 @@
 - 💼 Solutions Architect at [Agilisium](https://www.agilisium.com/)
 - 👀 Passionate about **MLOps**, Data Engineering, Data Pipelines, and Microservices (REST, GraphQL)
 - 💡 Enthusiast in leveraging AI and ML for innovative solutions
-- 🌐 Open to collaborations on Multi-Cloud Data Analytics (AWS & GCP)
+- 🌐 Open to collaborations on Multi-Cloud Data Analytics (AWS & Azure)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaik-abdul-haffeez-84719882?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3AeT1%2FumQ9SRbkNo711Y7A%3D%3D)
 
 ## Languages and Tools
