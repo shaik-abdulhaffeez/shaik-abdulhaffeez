@@ -25,7 +25,7 @@ Implemented a robust MLOps pipeline using AWS Sagemaker, Databricks, and MLflow 
 Designed a scalable data pipeline with Apache Kafka and Apache Spark for real-time data processing, ensuring seamless data flow and integration.
 
 ### 🌐 Multi-Cloud Data Analytics Platform
-Developed a multi-cloud data analytics platform utilizing AWS and GCP services for comprehensive data integration and analysis, supporting diverse business needs.
+Developed a multi-cloud data analytics platform utilizing AWS and Azure services for comprehensive data integration and analysis, supporting diverse business needs.
 
 ## Get in Touch
 I'm eager to discuss MLOps, Data Engineering, or any exciting projects. Let's collaborate and explore new opportunities together!
